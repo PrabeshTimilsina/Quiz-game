@@ -1,0 +1,7 @@
+
+
+History
+Name=Wassup
+Date and time=Fri May 06 18:04:55 2022
+score=30
+Time taken=45s.
